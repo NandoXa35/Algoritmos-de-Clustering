@@ -58,12 +58,12 @@ Los resultados del proyecto incluyen:
 
 Este proyecto demuestra cómo las técnicas avanzadas de clustering y la metodología CRISP-DM pueden aplicarse eficazmente para obtener insights valiosos a partir de datos de encuestas, proporcionando una comprensión más profunda del desempeño profesional de los egresados.
 
-Organización del Código y Base de Datos
+### Organización del Código y Base de Datos
 El código del proyecto está organizado en carpetas, cada una con comentarios y encabezados para facilitar la comprensión del funcionamiento de cada bloque de código. Aunque la base de datos no se puede proporcionar, se incluye una imagen que muestra cómo son los datos utilizados.
 
-Colaboradores
+### Colaboradores
 Este trabajo fue realizado en colaboración con:
 
-Ferra García Eduardo
-Palma Nicolás Pavel
-Pérez Medina Julio Josafat
+- Ferra García Eduardo
+- Palma Nicolás Pavel
+- Pérez Medina Julio Josafat
